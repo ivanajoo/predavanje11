@@ -1,0 +1,4 @@
+Amount: 1000, User:1,Budget:93000, Preostali budget:92000Amount: 2000, User:1, Budget:93000, Preostali budget:91000
+Amount: 1000, User:1, Budget:93000, Preostali budget:92000
+Amount: 2000, User:1, Budget:93000, Preostali budget:91000
+Amount: 1000, User:1, Budget:93000, Preostali budget:92000,DateTime: 2024-12-09 22:55:48.155017
